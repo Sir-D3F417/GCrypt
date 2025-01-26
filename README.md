@@ -9,6 +9,7 @@
   [![PyQt6](https://img.shields.io/badge/PyQt-6.4.0%2B-brightgreen.svg)](https://www.riverbankcomputing.com/software/pyqt/)
   [![Cryptography](https://img.shields.io/badge/cryptography-41.0.0%2B-red.svg)](https://cryptography.io/)
   [![GuardIran](https://img.shields.io/badge/GuardIran-Security-orange.svg)](https://guardiran.org)
+  [![Telegram](https://img.shields.io/badge/Join%20Us-Telegram-blue?style=flat&logo=telegram)](https://t.me/d3f417ir)
 </div>
 
 ---
