@@ -269,7 +269,7 @@ python GCrypt.py
 ## 🎨 User Interface
 
 <div align="center">
-  <img src="screenshots/main.png" alt="Main Interface" width="600"/>
+  <img src="assets/main.png" alt="Main Interface" width="600"/>
   <p><em>Modern Cyberpunk Interface</em></p>
   
 <div align="center">
@@ -278,16 +278,6 @@ python GCrypt.py
   </a>
   <p><em>Click to watch the full demonstration on YouTube</em></p>
 </div>
-
-### Video Contents
-- 0:00 - Introduction
-- 0:30 - Installation Process
-- 1:15 - Basic File Encryption
-- 2:00 - Advanced Features
-- 3:30 - Batch Processing
-- 4:15 - File Monitoring
-- 5:00 - Security Features
-- 6:00 - Tips and Best Practices
 
 For a more detailed walkthrough of GCrypt's features, check out our [Documentation](https://github.com/guardiran/gcrypt/wiki).
 
