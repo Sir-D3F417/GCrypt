@@ -97,22 +97,6 @@
 - Protected memory pages
 - Stack cleanup
 
-### System Requirements
-
-#### Minimum Requirements
-- CPU: Dual-core 2.0 GHz
-- RAM: 4 GB
-- Storage: 100 MB
-- Python: 3.8 or higher
-- Display: 1280x720
-
-#### Recommended Requirements
-- CPU: Quad-core 2.5 GHz
-- RAM: 8 GB
-- Storage: 500 MB
-- Python: 3.10 or higher
-- Display: 1920x1080
-
 #### Performance Metrics
 - File Encryption: ~300 MB/s
 - Batch Processing: ~200 MB/s
