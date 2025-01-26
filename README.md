@@ -272,7 +272,7 @@ python GCrypt.py
   
 <div align="center">
   <a href="https://www.youtube.com/watch?v=GYdXATiUkew">
-    <img src="assets/video_thumbnail.png" alt="GCrypt Demo Video" width="600"/>
+    <img src="assets/video_thumbnail.jpg" alt="GCrypt Demo Video" width="600"/>
   </a>
   <p><em>Click to watch the full demonstration on YouTube</em></p>
 </div>
