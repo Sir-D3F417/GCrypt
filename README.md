@@ -10,6 +10,20 @@
   [![Cryptography](https://img.shields.io/badge/cryptography-41.0.0%2B-red.svg)](https://cryptography.io/)
   [![GuardIran](https://img.shields.io/badge/GuardIran-Security-orange.svg)](https://guardiran.org)
   [![Telegram](https://img.shields.io/badge/Join%20Us-Telegram-blue?style=flat&logo=telegram)](https://t.me/d3f417ir)
+
+```
+    ██████╗  ██████╗██████╗ ██╗   ██╗██████╗ ████████╗
+   ██╔════╝ ██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝
+   ██║  ███╗██║     ██████╔╝ ╚████╔╝ ██████╔╝   ██║   
+   ██║   ██║██║     ██╔══██╗  ╚██╔╝  ██╔═══╝    ██║   
+   ╚██████╔╝╚██████╗██║  ██║   ██║   ██║        ██║   
+    ╚═════╝  ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝        ╚═╝   
+                                                    
+           Developed By D3F417 (GuardIran.org)
+                    Beta Version 1.0
+     Advanced File Encryption Tool with Modern UI
+```
+
 </div>
 
 ---
