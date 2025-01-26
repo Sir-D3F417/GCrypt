@@ -279,8 +279,6 @@ python GCrypt.py
   <p><em>Click to watch the full demonstration on YouTube</em></p>
 </div>
 
-For a more detailed walkthrough of GCrypt's features, check out our [Documentation](https://github.com/guardiran/gcrypt/wiki).
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
