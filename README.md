@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/guardiran.png" alt="GCrypt Logo" width="200"/>
+  <img src="assets/guardiran.png" alt="GCrypt Logo"/>
   <h1>GCrypt</h1>
   <p>Advanced File Encryption Suite with Modern Cyberpunk Interface</p>
   <p><em>Beta Version 1.0</em></p>
