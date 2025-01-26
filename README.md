@@ -204,7 +204,7 @@
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Sir-D3F417/GCrypt.git
-cd cryptovault
+cd GCrypt
 ```
 
 2. **Create virtual environment**
