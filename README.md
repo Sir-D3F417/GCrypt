@@ -202,7 +202,7 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/guardiran/cryptovault.git
+git clone https://github.com/Sir-D3F417/GCrypt.git
 cd cryptovault
 ```
 
@@ -275,25 +275,6 @@ python GCrypt.py
   <p><em>Encryption Process with Progress Tracking</em></p>
 </div>
 
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-1. **Fork the Repository**
-2. **Create Feature Branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit Changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to Branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open Pull Request**
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -308,9 +289,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **Website**: [guardiran.org](https://guardiran.org)
-- **GitHub**: [@guardiran](https://github.com/guardiran)
-- **Email**: support@guardiran.org
-- **Bug Reports**: [Issue Tracker](https://github.com/guardiran/cryptovault/issues)
+- **GitHub**: [@d3f417](https://github.com/Sir-D3F417)
+- **Email**: info@d3f417.info
+- **Bug Reports**: [Issue Tracker](https://github.com/Sir-D3F417/GCrypt/issues)
 
 ## 🌟 Star History
 
