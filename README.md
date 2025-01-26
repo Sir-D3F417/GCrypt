@@ -271,7 +271,7 @@ python GCrypt.py
   <p><em>Modern Cyberpunk Interface</em></p>
   
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
+  <a href="https://www.youtube.com/watch?v=GYdXATiUkew">
     <img src="assets/video_thumbnail.png" alt="GCrypt Demo Video" width="600"/>
   </a>
   <p><em>Click to watch the full demonstration on YouTube</em></p>
