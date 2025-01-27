@@ -567,16 +567,16 @@ class AboutDialog(QDialog):
         left_links = QVBoxLayout()
         website_link = QLabel("<a href='https://guardiran.org' style='color: #00ff9d;'>Official Website</a>")
         website_link.setOpenExternalLinks(True)
-        docs_link = QLabel("<a href='https://docs.guardiran.org/GCrypt' style='color: #00ff9d;'>Documentation</a>")
+        docs_link = QLabel("<a href='https://t.me/d3f417ir' style='color: #00ff9d;'>Telegram Channel</a>")
         docs_link.setOpenExternalLinks(True)
         left_links.addWidget(website_link)
         left_links.addWidget(docs_link)
         
         # Right column
         right_links = QVBoxLayout()
-        github_link = QLabel("<a href='https://github.com/guardiran/GCrypt' style='color: #00ff9d;'>GitHub Repository</a>")
+        github_link = QLabel("<a href='https://github.com/Sir-D3F417/GCrypt' style='color: #00ff9d;'>GitHub Repository</a>")
         github_link.setOpenExternalLinks(True)
-        issues_link = QLabel("<a href='https://github.com/guardiran/GCrypt/issues' style='color: #00ff9d;'>Report Issues</a>")
+        issues_link = QLabel("<a href='https://github.com/Sir-D3F417/GCrypt/issues' style='color: #00ff9d;'>Report Issues</a>")
         issues_link.setOpenExternalLinks(True)
         right_links.addWidget(github_link)
         right_links.addWidget(issues_link)
@@ -591,9 +591,9 @@ class AboutDialog(QDialog):
         layout.addWidget(contact_label)
 
         contact_info = QLabel("""
-Email: support@guardiran.org
-Telegram: @GuardIranSupport
-Twitter: @GuardIran
+Email: info@d3f417.ir
+Telegram: @hex_aa
+Instagram: @theguardiran
         """)
         layout.addWidget(contact_info)
 
